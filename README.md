@@ -13,3 +13,4 @@ Deployed using Surge following this [simple tutorial](https://medium.freecodecam
 It's a simple app that allows the user to add/remove `Hello` components and type the name to be greeted. It also allows to change the 'hello' to Spanish or Lebanese style salutes.
 
 ![react hello world](https://user-images.githubusercontent.com/29199184/35485125-12699924-045b-11e8-9ad0-3a3456e9578e.gif)
+Test
